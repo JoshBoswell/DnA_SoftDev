@@ -18,6 +18,7 @@ Daniel Kirkwood
 Edward Dunn
 Jamal Khan
 Joshua Boswell
+Kacie Rattray
 Kian Kane
 Lewis Amor
 Maisie McGregor
